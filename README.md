@@ -106,7 +106,7 @@
 
 🔸:checked
 
-> Seleciona um input tipo “radio” ou“checkbox”, “<option>" ou "<select>" que esteja marcado.
+> Seleciona um input tipo “radio” ou“checkbox”, “option" ou "select" que esteja marcado.
 > 
 
 ---
