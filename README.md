@@ -104,7 +104,7 @@
 
 ## 💠Pseudo Classes - Inputs/Selects/text areas/buttons
 
-🔸":checked"
+🔸:checked
 
 > Estiliza elementos que estão com foco( um input de texto selecionado por exemplo)
 > 
