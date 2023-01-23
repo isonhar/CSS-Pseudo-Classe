@@ -88,7 +88,7 @@
 
 🔸:active
 
->  Aplica propriedades quando um link estiver sendo pressionado.
+> Aplica propriedades quando um link estiver sendo pressionado.
 > 
 
 ---
@@ -100,15 +100,15 @@
 
 ---
 
+</br>
+
 ## 💠Pseudo Classes - Inputs/Selects/text areas/buttons
 
 🔸:checked
 
 > Seleciona um input tipo “radio” ou“checkbox”, “<option> ou <select> que esteja marcado.
-> 
-
 ---
-  </br>
+ 
 🔸:focus
 
 > Estiliza elementos que estão com foco( um input de texto selecionado por exemplo)
