@@ -88,7 +88,7 @@
 
 🔸:active
 
-> Aplica propriedades quando um link estiver sendo pressionado.
+>  Aplica propriedades quando um link estiver sendo pressionado.
 > 
 
 ---
