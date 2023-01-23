@@ -103,11 +103,6 @@
 </br>
 
 ## 💠Pseudo Classes - Inputs/Selects/text areas/buttons
-
-🔸:checked
-
-> Seleciona um input tipo “radio” ou“checkbox”, “<option> ou <select> que esteja marcado.
----
  
 🔸:focus
 
