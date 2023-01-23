@@ -109,7 +109,7 @@
 
 🔸:focus
 
-> Estiliza elementos que estão com foco( um input de texto selecionado por exemplo)
+> Estiliza elementos que estão com foco( um input de texto selecionado por exemplo).
 > 
 
 ---
