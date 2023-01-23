@@ -102,7 +102,7 @@
 
 ## 💠Pseudo Classes - Inputs/Selects/text areas/buttons
 
-🔸:celel
+🔸:celel </br>
 
 > Seleciona um input tipo “radio” ou“checkbox”, “<option> ou <select> que esteja marcado.
 > 
