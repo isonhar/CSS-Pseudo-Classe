@@ -102,7 +102,7 @@
 
 ## 💠Pseudo Classes - Inputs/Selects/text areas/buttons ….
 
-🔸:checked
+🔸:celel
 
 > Seleciona um input tipo “radio” ou“checkbox”, “<option> ou <select> que esteja marcado.
 > 
@@ -140,64 +140,6 @@
 🔸:enabled
 
 > Estiliza elementos que estão habilitados ( padrão do hmtl ).
-> 
-
----
-
-🔸:focus
-
-> Estiliza elementos que estão com foco( um input de texto selecionado por exemplo)
-> 
-
----
-
-🔸:in-range
-
-> Estiliza elementos ao qual o value está dentro do min e max setados no html.
-> 
-
----
-
-🔸out-of-range
-
-> Estiliza elementos ao qual o value está fora do min e max setados no html.
-> 
-
----
-
-🔸:invalid
-
-> Estiliza elementos ao qual o conteúdo não é compativel com o “tipo” do input.
-> 
-
----
-
-> 
-> 
-
----
-
-> 
-> 
-
----
-
-> 
-> 
-
----
-
-> 
-> 
-
----
-
-> 
-> 
-
----
-
-> 
 > 
 
 ---
