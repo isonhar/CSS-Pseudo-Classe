@@ -1,3 +1,5 @@
+# CSS Pseudo Classe
+
 # ❇️CSS Pseudo Classe
 
 🔸Pseudo Classe junto a um seletor permite estilizar um elemento apenas em um estado especifico, Ou chamar de uma forma “alternativa” algum elemento.
@@ -98,7 +100,7 @@
 
 ---
 
-## 💠Pseudo Classes - Inputs/Selects/text areas/buttons
+## 💠Pseudo Classes - Inputs/Selects/text areas/buttons ….
 
 🔸:checked
 
@@ -106,10 +108,10 @@
 > 
 
 ---
-  
+
 🔸:focus
 
-> Estiliza elementos que estão com foco( um input de texto selecionado por exemplo).
+> Estiliza elementos que estão com foco( um input de texto selecionado por exemplo)
 > 
 
 ---
@@ -142,6 +144,64 @@
 
 ---
 
+🔸:focus
+
+> Estiliza elementos que estão com foco( um input de texto selecionado por exemplo)
+> 
+
+---
+
+🔸:in-range
+
+> Estiliza elementos ao qual o value está dentro do min e max setados no html.
+> 
+
+---
+
+🔸out-of-range
+
+> Estiliza elementos ao qual o value está fora do min e max setados no html.
+> 
+
+---
+
+🔸:invalid
+
+> Estiliza elementos ao qual o conteúdo não é compativel com o “tipo” do input.
+> 
+
+---
+
+> 
+> 
+
+---
+
+> 
+> 
+
+---
+
+> 
+> 
+
+---
+
+> 
+> 
+
+---
+
+> 
+> 
+
+---
+
+> 
+> 
+
+---
+
 🔸:disabled
 
 > Estiliza elementos que estão Desabilitado ( que tem o atributo Disabled no documento ).
@@ -156,7 +216,6 @@
 
 ---
 
-  
 ## 💠Pseudo Classes - Geral
 
 🔸 :hover
