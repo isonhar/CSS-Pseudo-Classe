@@ -1,5 +1,3 @@
-# CSS Pseudo Classe
-
 # ❇️CSS Pseudo Classe
 
 🔸Pseudo Classe junto a um seletor permite estilizar um elemento apenas em um estado especifico, Ou chamar de uma forma “alternativa” algum elemento.
