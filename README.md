@@ -100,7 +100,7 @@
 
 ---
 
-## 💠Pseudo Classes - Inputs/Selects/text areas/buttons ….
+## 💠Pseudo Classes - Inputs/Selects/text areas/buttons
 
 🔸:celel
 
