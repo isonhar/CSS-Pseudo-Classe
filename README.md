@@ -156,6 +156,7 @@
 
 ---
 
+  
 ## 💠Pseudo Classes - Geral
 
 🔸 :hover
